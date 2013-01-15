@@ -20,6 +20,9 @@ public class PassportController {
 		
 		
 		
+		
+		
+		
 
 		ModelAndView mav  = new ModelAndView("/board/index");
 		return mav;
